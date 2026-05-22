@@ -41,27 +41,36 @@ O objetivo da solução é incentivar práticas sustentáveis e aumentar a inter
 📁 TMConsulting
 │
 ┣ 📁 css
-┃ ┣ 📁 sobre.css
+┃ ┣ 📁 button.css
+┃ ┣ 📁 card.css
 ┃ ┣ 📁 contato.css
 ┃ ┣ 📁 faq.css
-┃ ┣ 📁 footer
-┃ ┣ 📁 header
-┃ ┣ 📁 home
-┃ ┣ 📁 roadmap
-┃ ┣ 📁 team
-┃ ┗ 📄 style.css
+┃ ┣ 📁 footer.css
+┃ ┣ 📁 header.css
+┃ ┣ 📁 hero.css
+┃ ┣ 📁 integrantes.css
+┃ ┣ 📁 main.css
+┃ ┣ 📁 navbar.css
+┃ ┣ 📁 reset.css
+┃ ┣ 📁 roadmap.css
+┃ ┗ 📁 sobre.css
 │
 ┣ 📁 img
-┃ ┗ 📄 TMConsulting.png
+┃ ┣ 📄 TMConsulting.png
+┃ ┣ 📄 Fernando.png
+┃ ┣ 📄 Jonatan.png
+┃ ┣ 📄 Logo.png
+┃ ┣ 📄 Marcelo.png
+┃ ┗ 📄 Vinicius.png
 │
 ┣ 📁 paginas
-┃ ┣ 📄 sobre.html
 ┃ ┣ 📄 contato.html
 ┃ ┣ 📄 faq.html
-┃ ┗ 📄 integrantes.html
+┃ ┣ 📄 integrantes.html
+┃ ┗ 📄 sobre.css
 │
-┣ 📄 index.html
-┗ 📄 README.md
+┣ 📄 README.md
+┗ 📄 index.html
 ```
 
 ---
@@ -170,31 +179,35 @@ Página contendo:
 
 ## 🏠 Página Inicial
 
-adicione aqui o print da home
+<img width="1886" height="967" alt="image" src="https://github.com/user-attachments/assets/4f9ba5f7-9369-43ad-903f-c75db14555b4" />
+<img width="1892" height="781" alt="image" src="https://github.com/user-attachments/assets/5986b035-3b54-4d17-8086-dacb56ea1ecb" />
 
 ---
 
 ## ℹ️ Página Sobre
 
-adicione aqui o print da página sobre
+<img width="1883" height="983" alt="image" src="https://github.com/user-attachments/assets/05207c0d-cb9e-4680-95d7-56b413d03477" />
+<img width="1894" height="927" alt="image" src="https://github.com/user-attachments/assets/8b7816e1-852f-4d45-b9ba-16ea8e39eb65" />
+<img width="1883" height="1025" alt="image" src="https://github.com/user-attachments/assets/d71ace6a-ebb9-405d-8664-50e8a26b856d" />
 
 ---
 
 ## ❓ Página FAQ
 
-adicione aqui o print da FAQ
+<img width="1885" height="1029" alt="image" src="https://github.com/user-attachments/assets/2a58249d-42ca-4869-9831-eaeee609a5a7" />
 
 ---
 
 ## 👥 Página Integrantes
 
-adicione aqui o print da página integrantes
+<img width="1882" height="944" alt="image" src="https://github.com/user-attachments/assets/732a6dca-b0be-4327-8885-54cae546d76a" />
+<img width="1879" height="661" alt="image" src="https://github.com/user-attachments/assets/de14aa5a-1b90-4006-990d-4f444703024f" />
 
 ---
 
 ## 📞 Página Contato
 
-adicione aqui o print da página contato
+<img width="1884" height="1013" alt="image" src="https://github.com/user-attachments/assets/ac78c9cc-6930-40a7-ae22-fc88dc12a034" />
 
 ---
 
