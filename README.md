@@ -227,16 +227,6 @@ Página contendo:
 
 ---
 
-# 📞 Contato
-
-Email do projeto/grupo:
-
-```plaintext
-contato@soulgame.com
-```
-
----
-
 # 🎯 Status do Projeto
 
 🚧 Projeto em desenvolvimento 🚧
